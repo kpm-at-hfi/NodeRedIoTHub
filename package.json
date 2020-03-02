@@ -1,6 +1,6 @@
 {
-  "name": "node-red-contrib-azure-iot-hub",
-  "description": "Connector to azure on Node-Red",
+  "name": "node-red-contrib-azure-iot-hub-kpm",
+  "description": "Fork of the connector to Azure on Node-Red project. Currently an **unsupported** learning exercize.",
   "version": "0.4.0",
   "engines": {
     "node": ">=0.10.0"
