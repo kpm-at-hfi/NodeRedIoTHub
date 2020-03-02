@@ -1,7 +1,7 @@
 {
   "name": "node-red-contrib-azure-iot-hub-kpm",
-  "description": "Fork of the connector to Azure on Node-Red project. Currently an **unsupported** learning exercize.",
-  "version": "0.4.0",
+  "description": "Fork of the connector to Azure on Node-Red project. Currently an **unsupported** learning exercise.",
+  "version": "0.4.1",
   "engines": {
     "node": ">=0.10.0"
   },
@@ -27,14 +27,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lcarli/NodeRedIoTHub"
+    "url": "https://github.com/kpm-at-hfi/NodeRedIoTHub"
   },
   "author": {
-    "name": "Lucas Humenhuk",
-    "email": "luhumenh@microsoft.com",
-    "url": "http://nodered.org"
+    "name": "Ken Martin",
+    "email": "kmartin@hydraflexinc.com",
+    "url": "https://github.com/kpm-at-hfi/NodeRedIoTHub"
   },
   "contributors": [
-    "Olli Kasari <8488349+kasarol@users.noreply.github.com>"
+    "Olli Kasari <8488349+kasarol@users.noreply.github.com>",
+    "Lucas Humenhuk <luhumenh@microsoft.com>"
   ]
 }
