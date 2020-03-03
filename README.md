@@ -1,4 +1,4 @@
-# node-red-contrib-azure-iot-hub
+# node-red-contrib-azure-iot-hub-kpm
 
 node-red-contrib-azure-iot-hub-kpm is a fork of node-red-contrib-azure-iot-hub created because the latter had its packages disappear from the internet. This provides [Node-RED](https://nodered.org) nodes that allow you to send messages and register devices with Azure IoT Hub. node-red-contrib-azure-iot-hub was itself a fork from the original Node-RED example by the Azure IoT team found [here](https://github.com/Azure/azure-iot-sdks/tree/master/node/device/node-red).
 
